@@ -1,8 +1,8 @@
 # WatchKitTablePagination-Demo 
 
-WatchOS3 - Navigation Enhancements
+WatchOS3 - Vertical Paging
 
-Vertical Paging - Scroll the table detail view vertically with Digital crown or Finger.
+Scroll the table view vertically with Digital crown or Finger.
 
 Enable "Item pagination" in Table Attributes Inspector
 
